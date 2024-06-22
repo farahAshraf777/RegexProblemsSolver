@@ -2,6 +2,7 @@ Java Regular Expressions Problems Solver
 
 This repository contains a Java application designed to solve a series of problems using regular expressions. The application reads input values from a text file, processes them to solve each problem according to specific requirements, and outputs the results to a text file. Each problem is uniquely identified and delineated in the input and output files, ensuring clear and organized data handling.
 
+
 Features:
 Input Parsing: The program reads from a single input file, structured to include problem numbers, input values, and delimiters to indicate the end of each problem's input.
 Regex Solutions: Each problem is addressed using Java's robust regular expression capabilities, showcasing practical applications of regex in data validation, parsing, and transformation.
